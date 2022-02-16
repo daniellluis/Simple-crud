@@ -1,0 +1,15 @@
+body {
+  
+  background-image: linear-gradient(to left bottom, #bee5dd, #a6e8dd, #8bebde, #66ede1, #21efe4);
+  margin: 0;
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
