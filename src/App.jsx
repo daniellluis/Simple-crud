@@ -77,7 +77,7 @@ const editarTarea = (e) => {
                     <button 
                     className="btn btn-sm btn-danger float-end mx-2"
                     onClick={()=> eliminarTarea(item.id)}>
-                    Delete
+                     Delete
                     </button>
                   
                     <button 
