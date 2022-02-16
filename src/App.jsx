@@ -77,7 +77,7 @@ const editarTarea = (e) => {
                     <button 
                     className="btn btn-sm btn-danger float-end mx-2"
                     onClick={()=> eliminarTarea(item.id)}>
-                    delete
+                    Delete
                     </button>
                   
                     <button 
@@ -109,7 +109,7 @@ const editarTarea = (e) => {
              />
              {
                modoEdicion ? (<button className="btn btn-warning w-100" type="submit"> Edit</button>) : 
-               (<button className="btn btn-dark w-100" type="submit"> Add</button>)
+               (<button className="btn btn-dark w-100" type="submit">Add</button>)
              }
          </form>
          </div>
